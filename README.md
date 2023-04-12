@@ -1,3 +1,13 @@
 # CPP-Introduction_Experiments
-Some small experiments for C++ beginners to use. In this project, I will provide some examples of the usage of C++ in different branches. For these projects, if you have better ideas or discover errors, you can raise them in the issue.
-一些供C++初学者使用的小实验。在这个项目中，我将在不同的branch中提供一些C++使用的例子。对于这些项目，如果你有更好的想法或发现错误，你可以在issue中提出。
+一、实验目的
+1. 掌握使用if语句实现单分支结构的编程思路和方法；
+2. 掌握使用if…else语句实现双分支结构的编程思路和方法；
+3. 掌握使用if …else嵌套结构的编程思路和方法。
+
+二、实验任务
+1. 编程实现：从键盘输入2个整数，使用if语句的单分支结构（if）求出较小的数；使用条件运算符求出较大的数。
+2. 编程实现：已知一个函数 y={█(&2x   (x<10)@&@&x/3+1  (x≥10))┤   输入x的值，求解并输出相应的y值。
+要求使用双分支结构(if…else)。
+3. 编程实现：从键盘输入一个字符，使用双分支结构（if…else）判断其是否为英文字母。
+4. 编程实现：从键盘输入一个整数，使用双分支结构（if…else）判断其是否能被3整除；再使用双分支结构（if…else）判断其是否不能被5整除（要求使用“不等于”运算符）。
+5. 编程实现：已知A商品单价为7.3元，购买数量20个及以上时打八折。从键盘输入商品数量，若商品数量不为负数，则计算出商品总金额并输出，再输入付款金额，计算出找零金额并输出。要求所有输出均保留两位小数。输入输出格式参见样张：
