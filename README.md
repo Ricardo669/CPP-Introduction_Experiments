@@ -1,3 +1,21 @@
 # CPP-Introduction_Experiments
-Some small experiments for C++ beginners to use. In this project, I will provide some examples of the usage of C++ in different branches. For these projects, if you have better ideas or discover errors, you can raise them in the issue.
-一些供C++初学者使用的小实验。在这个项目中，我将在不同的branch中提供一些C++使用的例子。对于这些项目，如果你有更好的想法或发现错误，你可以在issue中提出。
+一、实验目的
+
+1.掌握使用单层循环语句解决较难问题的方法；
+2.掌握嵌套循环结构的使用方法；
+3.掌握循环控制语句的使用方法。
+
+二、实验任务
+
+1．编程实现：从键盘输入一个合数，采用单层循环对这个合数进行质因数分解。
+ps：合数是指自然数中除了能被1和本身整除外，还能被其他数（0除外）整除的数。
+
+2. 编程实现：编程输出九九乘法表。输入输出格式参见样张：
+
+3. 编程实现：从键盘输入行数和一个字符，输出由这个字符构成的图形。
+
+4.  编程实现：工地需要搬运砖块，已知男人一人搬3块，女人一人搬2块，小孩两人搬1块。从键盘输入n，让这 n个人一次性搬完n块砖，编程列出每种搬法，并统计共有多少种搬法。
+
+5.  编程实现：从键盘输入正整数m和n（m，n的大小关系不确定），对m到n范围之间（包含m和n两个边界值）个位数为3或7的素数，进行如下操作：
+（1）输出所有满足条件的素数，并求和输出。
+（2）对所有满足条件的数，且十位数不为6的素数，求和并输出（要求使用continue语句实现）。
